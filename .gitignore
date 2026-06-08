@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# YOLO weights
+yolov8n.pt
+
+# Output videos
+outputs/
+
+# Node dependencies and session caches
+whatsapp_bot/node_modules/
+whatsapp_bot/session/
+whatsapp_bot/.wwebjs_cache/
+
+# System logs
+*.log
